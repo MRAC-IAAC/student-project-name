@@ -4,9 +4,8 @@
   - [Getting Started](#getting-started)
   - [Demo](#demo)
   - [Authors](#authors)
-  - [Credits](#credits)
   - [References](#references)
-
+  - [Credits](#credits)
 <!--  Other options to write Readme
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
@@ -71,10 +70,17 @@ This opens up `rviz` and shows the robot moving around
 ## Authors
   - [Name](insert linkedin/webpage link) - role
 
+## References
+- [K. Albee et al., “A robust observation, planning, and control pipeline for autonomous rendezvous with tumbling targets,” Frontiers in Robotics and AI, vol. 8, p. 234, 2021, doi: 10.3389/frobt.2021.641338.](https://www.frontiersin.org/articles/10.3389/frobt.2021.641338/full)
+
 ## Credits
   - [Name](insert linkedin/webpage link) - role
 
-## References
-- [K. Albee et al., “A robust observation, planning, and control pipeline for autonomous rendezvous with tumbling targets,” Frontiers in Robotics and AI, vol. 8, p. 234, 2021, doi: 10.3389/frobt.2021.641338.](https://www.frontiersin.org/articles/10.3389/frobt.2021.641338/full)
+<!--  DO NOT REMOVE
+-->
+#### Acknowledgements
+
+- Creation of GitHub template: [Marita Georganta](https://www.linkedin.com/in/marita-georganta/) - Robotic Sensing Expert
+- Creation of MRAC-IAAC GitHub Structure: [Huanyu Li](https://www.linkedin.com/in/huanyu-li-457590268/) - Robotic Researcher
 
 
